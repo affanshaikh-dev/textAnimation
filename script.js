@@ -5,11 +5,11 @@ setInterval( function(){
     id = document.getElementById("repeat");
     var i = 0;
     
-    var firstTxt = "I'm sorry, Miss. Deskhmukh. I am for real. Never meant to  make your daughter cry. I apologize. ";
+    var firstTxt = "I'm sorry, Miss. Deskhmukh. I am for real. Never meant to  make you hurt. I apologize. ";
     
-       var lastTxt = "I'm sorry, Miss. Deskhmukh. I am for real. Never meant to  make your hurt. I apologize a trillion times.";
+       var lastTxt = "I'm sorry, Miss. Deskhmukh. I am for real. Never meant to  make you hurt. I apologize a trillion times.";
     
-    var txt = "I'm sorry, Mrs. Deshmukh. I am for real. Never meant to  make your hurt. I apologize " + counter + " times. ";
+    var txt = "I'm sorry, Mrs. Deshmukh. I am for real. Never meant to  make you hurt. I apologize " + counter + " times. ";
     var speed = 45;
 
     
